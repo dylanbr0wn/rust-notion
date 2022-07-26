@@ -1,5 +1,5 @@
 [package]
-name = "hello-rust"
+name = "rust-notion"
 version = "0.1.0"
 edition = "2021"
 
